@@ -1,0 +1,169 @@
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\GoTrans.Server.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\GoTrans.Server.pdb
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Antlr3.Runtime.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\EntityFramework.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.Edm.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.OData.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Newtonsoft.Json.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Owin.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Spatial.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Helpers.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.OData.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.Tracing.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Mvc.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Optimization.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Providers.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Razor.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\WebGrease.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Newtonsoft.Json.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\EntityFramework.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Helpers.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Mvc.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Razor.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.Tracing.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.OData.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.Edm.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.OData.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\System.Spatial.xml
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\de\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\es\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\fr\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\it\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ja\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ko\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\ru\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.csprojResolveAssemblyReference.cache
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.dll
+C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\GoTrans.Server.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\GoTrans.Server.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Antlr3.Runtime.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\EntityFramework.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.Edm.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.OData.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Newtonsoft.Json.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Owin.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Spatial.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Helpers.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.OData.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.Tracing.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Mvc.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Optimization.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Providers.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Razor.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\WebGrease.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Newtonsoft.Json.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\EntityFramework.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Helpers.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Mvc.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Razor.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.Tracing.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Http.OData.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.Edm.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Data.OData.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Spatial.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\de\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\es\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\fr\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\it\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ja\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ko\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\ru\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.csprojResolveAssemblyReference.cache
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\obj\Debug\GoTrans.Server.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\System.Web.Cors.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Server\bin\Microsoft.Owin.Cors.xml

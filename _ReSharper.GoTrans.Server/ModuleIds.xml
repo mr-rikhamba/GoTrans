@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2C176150-BB17-4823-B7E8-A86448FE8399" ModuleId="SignalRClientSample" />
+  <Module PersistentId="590EA4B1-6DA4-49B2-8063-260AB375A033" ModuleId="GoTrans.Server" />
+</Modules>
