@@ -9,8 +9,6 @@ C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\SignalRClientSample\obj\De
 C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.exe
 C:\Users\Dru\Documents\Xamarin\GoTrans\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.pdb
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\SignalRClientSample.exe.config
-C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.exe
-C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.pdb
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\SignalRClientSample.exe
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\SignalRClientSample.pdb
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
@@ -18,3 +16,5 @@ C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClien
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\bin\Debug\Newtonsoft.Json.xml
 C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.csprojResolveAssemblyReference.cache
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.exe
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\SignalRClientSample\obj\Debug\SignalRClientSample.pdb

@@ -5,6 +5,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTrans.Server", "GoTrans.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRClientSample", "SignalRClientSample\SignalRClientSample.csproj", "{2C176150-BB17-4823-B7E8-A86448FE8399}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTrans.Model", "GoTrans.Model\GoTrans.Model.csproj", "{FEA382AD-385C-422B-96E7-0071D412A8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTrans.Bll", "GoTrans.Bll\GoTrans.Bll.csproj", "{CEE052F4-0A33-4AE9-B1BE-E8878BAD46EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTrans.Dal", "GoTrans.Dal\GoTrans.Dal.csproj", "{41703448-E9AD-4CC3-BFF3-58B7A96E1752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\Back Up\GoTrans\My-Cv\BusinessLogic\BusinessLogic.csproj", "{8F184B0E-AC61-4E9B-92CF-BE8B62AD8F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb.Repository", "..\Back Up\GoTrans\My-Cv\MongoDb.Repository\MongoDb.Repository.csproj", "{E6E44E4C-4B6D-4BE1-B575-CAF993B7D6CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +29,26 @@ Global
 		{2C176150-BB17-4823-B7E8-A86448FE8399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C176150-BB17-4823-B7E8-A86448FE8399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C176150-BB17-4823-B7E8-A86448FE8399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA382AD-385C-422B-96E7-0071D412A8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA382AD-385C-422B-96E7-0071D412A8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA382AD-385C-422B-96E7-0071D412A8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA382AD-385C-422B-96E7-0071D412A8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE052F4-0A33-4AE9-B1BE-E8878BAD46EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE052F4-0A33-4AE9-B1BE-E8878BAD46EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE052F4-0A33-4AE9-B1BE-E8878BAD46EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE052F4-0A33-4AE9-B1BE-E8878BAD46EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41703448-E9AD-4CC3-BFF3-58B7A96E1752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41703448-E9AD-4CC3-BFF3-58B7A96E1752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41703448-E9AD-4CC3-BFF3-58B7A96E1752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41703448-E9AD-4CC3-BFF3-58B7A96E1752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F184B0E-AC61-4E9B-92CF-BE8B62AD8F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F184B0E-AC61-4E9B-92CF-BE8B62AD8F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F184B0E-AC61-4E9B-92CF-BE8B62AD8F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F184B0E-AC61-4E9B-92CF-BE8B62AD8F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E44E4C-4B6D-4BE1-B575-CAF993B7D6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E44E4C-4B6D-4BE1-B575-CAF993B7D6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E44E4C-4B6D-4BE1-B575-CAF993B7D6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E44E4C-4B6D-4BE1-B575-CAF993B7D6CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\bin\Debug\GoTrans.Dal.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\bin\Debug\GoTrans.Dal.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\bin\Debug\MongoDb.Repository.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\bin\Debug\MongoDb.Repository.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\obj\Debug\GoTrans.Dal.csprojResolveAssemblyReference.cache
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\obj\Debug\GoTrans.Dal.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Dal\obj\Debug\GoTrans.Dal.pdb

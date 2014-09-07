@@ -33,7 +33,9 @@
         @RenderBody()
         <input id="message" type="text" />
         <input type="button" id="send" />
-        
+        <div id="Locations">
+            
+        </div>
 
     </body>
 </html>
@@ -100,5 +102,9 @@
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
+
+        $.getJSON('/api/LocationHistory/', function(res) {
+            $('#Locations').html(JSON.stringify(res));
+        });
     })
 </script>

@@ -1,0 +1,4 @@
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Model\bin\Debug\GoTrans.Model.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Model\bin\Debug\GoTrans.Model.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Model\obj\Debug\GoTrans.Model.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Model\obj\Debug\GoTrans.Model.pdb

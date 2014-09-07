@@ -1,0 +1,16 @@
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\obj\Debug\GoTrans.Bll.csprojResolveAssemblyReference.cache
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Bll.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Bll.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\BusinessLogic.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Dal.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Model.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\MongoDb.Repository.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\MongoDB.Driver.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\MongoDB.Bson.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\BusinessLogic.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\MongoDb.Repository.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Dal.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\GoTrans.Model.pdb
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\bin\Debug\MongoDB.Driver.xml
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\obj\Debug\GoTrans.Bll.dll
+C:\Users\druza\Documents\Visual Studio 2012\Projects\GoTrans.Server\GoTrans.Bll\obj\Debug\GoTrans.Bll.pdb
